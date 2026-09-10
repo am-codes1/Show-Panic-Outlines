@@ -1,0 +1,26 @@
+{
+  "menu_id": "panicoutlines_menu_id",
+  "parent_menu_id": "blt_options",
+  "title": "panicoutlines_menu_name",
+  "description": "panicoutlines_menu_desc",
+  "items": [
+    {
+      "type": "toggle",
+      "id": "panicoutlines_sync_toggle_id",
+      "title": "panicoutlines_sync_name",
+      "description": "panicoutlines_sync_desc",
+      "callback": "panicoutlines_sync_toggle_clbk",
+      "value": "sync",
+      "default_value": true
+    },
+    {
+      "type": "toggle",
+      "id": "panicoutlines_panic_fix_client_toggle_id",
+      "title": "panicoutlines_panic_fix_client_name",
+      "description": "panicoutlines_panic_fix_client_desc",
+      "callback": "panicoutlines_panic_fix_client_toggle_clbk",
+      "value": "panic_fix_client",
+      "default_value": false
+    },
+  ]
+}

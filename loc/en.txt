@@ -1,0 +1,8 @@
+{
+  "panicoutlines_menu_name": "Show Panic Outlines",
+  "panicoutlines_menu_desc": "Shows outlines for panicking enemies and fixes an issue with the panic animation",
+  "panicoutlines_sync_name": "Sync Outlines",
+  "panicoutlines_sync_desc": "Outlines will be visible to other players",
+  "panicoutlines_panic_fix_client_name": "Animation Fix (Client)",
+  "panicoutlines_panic_fix_client_desc": "Experimental. Fixes the Panic animation as a client",
+}
