@@ -8,14 +8,16 @@ I've playtested it quite a bit, but I'm releasing it as experimental just in cas
 
 I may not provide support for it due to lack of time and dedication to modding.
 
-Enjoy.
-
-[MWS Link](https://modworkshop.net/mod/42962)
+Enjoy. [(MWS Link)](https://modworkshop.net/mod/42962)
 
 ### ⚙ Options
 
 * **Sync Outlines**: Outlines will be visible to other players
 * **Animation Fix (Client)**: Experimental. Fixes the Panic animation as a client
+
+### ❤️ Credits
+
+* TdlQ whose code from FSS I had to borrow to fix some things.
 
 ### 📰 Change Log:
 
